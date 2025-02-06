@@ -1,6 +1,10 @@
+# **Getting Started with GuppyLang**
 
-# 1. Getting Started
+Welcome to GuppyLang! This guide will help you get started with installation and usage.
 
-This file explains how you can get started using Guppy.
+## **Installation**
 
-TODO
+To install GuppyLang, ensure you have **Python 3.10+** installed, then run:
+
+```sh
+pip3 install guppylang
